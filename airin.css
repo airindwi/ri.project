@@ -1,0 +1,62 @@
+ .dwi{
+    background: rgb(156, 173, 206);
+    color: white;
+    font-family: serif;
+    font-size: 17px;
+ }
+ 
+ .pendidikan .ayumi{
+    color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(209, 207, 226);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+
+    margin-top: 15px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    width: 11%;
+    height: 25px;
+
+ }
+
+ .rin{
+     color: darkslategray;
+ }
+
+ .pengalaman .irin{
+     color: darkslategray;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background: rgb(209, 207, 226);
+     padding-top: 15px;
+     padding-right: 15px;
+     padding-bottom: 15px;
+     padding-left: 15px;
+
+     margin-top: 15px;
+     margin-right: 5px;
+     margin-bottom: 15px;
+     margin-left: 10px;
+     width: 22%;
+     height: 25px;
+ }
+
+ .inspirasi .yumi{
+     color: darkslategray;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background: rgb(209, 207, 226);
+     padding-top: 15px;
+     padding-right: 15px;
+     padding-bottom: 15px;
+     padding-left: 15px;
+
+     margin-top: 15px;
+     margin-right: 5px;
+     margin-bottom: 15px;
+     margin-left: 10px;
+    width: 9%;
+    height: 25px;
+ }
